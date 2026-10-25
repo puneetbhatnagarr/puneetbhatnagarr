@@ -1,4 +1,3 @@
-<!-- Your title -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&weight=10&size=30&duration=3000&pause=100&color=016EEA&background=388FFF00&center=true&vCenter=true&width=950&height=50&lines=Hey+Fellas%F0%9F%91%8B%2C+I'm+Puneet+Bhatnagar.;A+Passionate+DevOps+Engineer.;AWS+Cloud+Developer.;Feel+Free+to+Connect+with+me.;If+there+is+Anything.;Nice+to+Meet+You+!!!....)](https://git.io/typing-svg)
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="340" height="395">
@@ -7,30 +6,25 @@
   <img src="https://komarev.com/ghpvc/?username=puneetbhatnagarr&label=Profile%20views&color=0e75b6&style=flat" alt="puneetbhatnagarr" />
 </p>
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+## 👨‍💻 About Me
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/puneetbhatnagarr)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/puneet-bhatnagar-2b1224195/)
+- 🔭 Currently working as a **Network Engineer** at Ebix Technologies (Client: Punjab National Bank NOC Data Center )
+- 🌱 Transitioning into **DevOps** — hands-on with CI/CD, Kubernetes, Terraform & AWS
+- ☁️ **AWS Certified Cloud Practitioner**
+- 💬 Ask me about **Linux, Jenkins, Docker, Kubernetes, Ansible, Terraform, AWS**
+- 📫 Reach me at **puneetbt11@gmail.com**
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/puneet-bhatnagar-2b1224195)
+- ⚡ Fun fact: I started in networking and fell in love with automation
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:punitrock11@gmail.com)
+<br clear="right"/>
 
+---
 
-&nbsp;
-<!-- Talking about you -->
-**Talking about Personal Stuff:**
-- 🔭 I’m currently a Network Engineer at ** EBIX TECHNOLOGIES.**
-  
-- Past Work Experiences [ ATE at CMS IT SERVICES Company]
+## 🛠️ Languages & Tools
 
-- 💬 Ask me about **AWS Cloud & DEVOPS.**
-
-- 📫 How to reach me: **punitrock11@gmail.com**
-
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1RGF6aDuVaCvwYrG7QEiKyXiIyjoWqTr0/view?usp=sharing)
-
-- ⚡ Fun fact: **I am good at fitness.**
+**Languages**
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripting-000?&logo=GNU%20Bash)
 
 **DevOps & Cloud**
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
@@ -45,12 +39,64 @@ You can use the website to generate badges: https://shields.io/
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?&logo=Grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?&logo=Prometheus&logoColor=white)
 
+---
 
+## 🚀 Featured Projects
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it’s%20bad.&author=Cory%20House&theme=radical)
+### ☁️ AWS DevOps Kubernetes Capstone
+End-to-end DevOps pipeline taking a Python app from source to a highly available Kubernetes cluster.
+`Terraform` · `Jenkins` · `GitHub Actions` · `Docker` · `AWS` · `Kubernetes (Kubeadm)`
+- Provisioned AWS infra (VPC, EC2, IAM) with **Terraform**
+- Dual CI/CD with **Jenkins** + **GitHub Actions**
+- Event-driven: **S3 → SNS** email alerts, **Lambda** processing, **DynamoDB** storage
+- Monitored via **CloudWatch**
 
-</div>
-<div align="center">
-<b>❤️ Thank you for visiting my Github Profile ❤️</b>
-</div>
+### 🐍 Student API — CI/CD & Kubernetes
+`Jenkins` · `Python` · `Pytest` · `Docker` · `Ansible` · `K3s` · `AWS EC2`
+- Automated build/test/deploy pipeline with **Jenkins** + **Pytest**
+- Containerized with **Docker**, pushed to **Docker Hub**
+- Provisioned EC2 with **Ansible**, exposed app on **K3s** via NodePort
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=puneetbhatnagarr&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=puneetbhatnagarr&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetbhatnagarr&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Certifications
+
+- 🟠 **AWS Certified Cloud Practitioner**
+- 🐍 **Microsoft Technology Associate (MTA): Python**
+- 🎓 **Quantum Certification**
+- 🇬🇧 **British English Council (BEC) Certified**
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/puneet-bhatnagar-2b1224195" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?&logo=LinkedIn&logoColor=white" />
+  </a>
+  <a href="https://github.com/puneetbhatnagarr" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=white" />
+  </a>
+  <a href="mailto:puneetbt11@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?&logo=Gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/puneetbhatnagarr">puneetbhatnagarr</a> — Thanks for visiting!</i>
+</p>
