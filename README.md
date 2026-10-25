@@ -14,50 +14,31 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 <!-- Talking about you -->
-**Talking about Personal Stuffs:**
-- 🔭 I’m currently a Intern on ** vinsys IT services.**
+**Talking about Personal Stuff:**
+- 🔭 I’m currently a Network Engineer at ** EBIX TECHNOLOGIES.**
+  
+- Past Work Experiences [ ATE at CMS IT SERVICES Company]
 
-- Past Work Experiences [ Full Stack developer Intern at PN-INFOSYS Software IT Company]
+- 💬 Ask me about **AWS Cloud $ DEVOPS.**
 
-- 💬 Ask me about **AWS Cloud.**
-
-- 📫 How to reach me **punitrock11@gmail.com**
+- 📫 How to reach me: **punitrock11@gmail.com**
 
 - 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1RGF6aDuVaCvwYrG7QEiKyXiIyjoWqTr0/view?usp=sharing)
 
-- ⚡ Fun fact **I am Good in Fitness.**
+- ⚡ Fun fact: **I am good at fitness.**
 
-### Languages
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripting-000?&logo=GNU%20Bash)
-![JSON](https://img.shields.io/badge/-JSON-000?&logo=JSON)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+**DevOps & Cloud**
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?&logo=Angular&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=Node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB&logoColor=white)
-
-
-
-
-### Technologies
-
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?&logo=Angular&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=Node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-
-
-
-
+![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?&logo=Kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?&logo=Jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?&logo=GitHub-Actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?&logo=Terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?&logo=Ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=Amazon-AWS&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?&logo=Grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?&logo=Prometheus&logoColor=white)
 
 
 
