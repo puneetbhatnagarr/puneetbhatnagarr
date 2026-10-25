@@ -19,7 +19,7 @@ You can use the website to generate badges: https://shields.io/
   
 - Past Work Experiences [ ATE at CMS IT SERVICES Company]
 
-- 💬 Ask me about **AWS Cloud $ DEVOPS.**
+- 💬 Ask me about **AWS Cloud & DEVOPS.**
 
 - 📫 How to reach me: **punitrock11@gmail.com**
 
